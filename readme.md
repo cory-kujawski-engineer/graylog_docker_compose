@@ -2,6 +2,8 @@
 
 This project sets up a logging infrastructure using Graylog, OpenSearch, and MongoDB. The provided `docker-compose.yml` file orchestrates the setup.
 
+It was built to supplement the [graylog documentations docker-compose](https://go2docs.graylog.org/current/downloading_and_installing_graylog/docker_installation.htm?TocPath=Installing+Graylog%7C_____2) with a newer version.
+
 ## Prerequisites
 
 - Docker
